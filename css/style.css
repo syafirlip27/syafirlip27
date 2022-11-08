@@ -449,4 +449,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	float: left;
 	margin-bottom: 20px;
 }
+ol.type li a {
+	float: left;
+}
+}
+@media (max-width: 360px) {
+#about img {
+	margin-left: 100px;
+}
 }
